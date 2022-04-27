@@ -7,3 +7,4 @@
 * [CC Generator](https://imdark.tech/cc-gen) 
 * [Calculator](https://imdark.tech/calculator/) 
 * [Password Generator](https://imdark.tech/password-gen/) 
+* [Heroku Deployer](https://imdark.tech/heroku-deployer/) 
