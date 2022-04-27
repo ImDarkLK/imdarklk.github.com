@@ -1,0 +1,8 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    font-family: 'Nunito', sans-serif;
+    font-size: 500%;
+}
