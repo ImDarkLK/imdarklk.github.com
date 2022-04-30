@@ -3,6 +3,7 @@
 
 ## Website Features
 * [Dark's Profile](https://imdark.tech)
+* [Music Player](https://imdark.tech/music/) 
 * [Bin Checker](https://imdark.tech/bin-checker) 
 * [CC Generator](https://imdark.tech/cc-gen) 
 * [Calculator](https://imdark.tech/calculator/) 
