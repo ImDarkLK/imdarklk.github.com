@@ -11,5 +11,6 @@
 * [Heroku Deployer](https://imdark.tech/heroku-deployer/) 
 * [Local Clock](https://imdark.tech/clock/) 
 * [Batman Logo](https://imdark.tech/batman-logo/) 
+* [GuClan Checker](https://imdark.tech/guclan/) 
 
 # Don't Edit or Fork The Code !!!
